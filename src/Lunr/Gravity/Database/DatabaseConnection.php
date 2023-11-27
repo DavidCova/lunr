@@ -180,6 +180,15 @@ abstract class DatabaseConnection implements DatabaseStringEscaperInterface
      */
     public abstract function end_transaction();
 
+    /**
+     * Run OPTIMIZE TABLE on a table.
+     *
+     * @param string $table The table to defragment.
+     *
+     * @return void
+     */
+    abstract public function defragment(string $table): void;
+
 }
 
 ?>

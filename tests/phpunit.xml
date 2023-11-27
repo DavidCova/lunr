@@ -155,6 +155,7 @@
             <file>../src/Lunr/Gravity/Database/MySQL/Tests/MySQLConnectionBaseTest.php</file>
             <file>../src/Lunr/Gravity/Database/MySQL/Tests/MySQLConnectionSetTest.php</file>
             <file>../src/Lunr/Gravity/Database/MySQL/Tests/MySQLConnectionConnectTest.php</file>
+            <file>../src/Lunr/Gravity/Database/MySQL/Tests/MySQLConnectionDefragmentTest.php</file>
             <file>../src/Lunr/Gravity/Database/MySQL/Tests/MySQLConnectionQueryTest.php</file>
             <file>../src/Lunr/Gravity/Database/MySQL/Tests/MySQLConnectionEscapeTest.php</file>
             <file>../src/Lunr/Gravity/Database/MySQL/Tests/MySQLConnectionTransactionTest.php</file>
@@ -170,6 +171,7 @@
             <file>../src/Lunr/Gravity/Database/SQLite3/Tests/SQLite3ConnectionBaseTest.php</file>
             <file>../src/Lunr/Gravity/Database/SQLite3/Tests/SQLite3ConnectionSetTest.php</file>
             <file>../src/Lunr/Gravity/Database/SQLite3/Tests/SQLite3ConnectionConnectTest.php</file>
+            <file>../src/Lunr/Gravity/Database/SQLite3/Tests/SQLite3ConnectionDefragmentTest.php</file>
             <file>../src/Lunr/Gravity/Database/SQLite3/Tests/SQLite3ConnectionEscapeTest.php</file>
             <file>../src/Lunr/Gravity/Database/SQLite3/Tests/SQLite3ConnectionTransactionTest.php</file>
             <file>../src/Lunr/Gravity/Database/SQLite3/Tests/SQLite3ConnectionQueryTest.php</file>
